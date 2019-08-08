@@ -1,0 +1,34 @@
+{
+  "name": "courses",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "descripton": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string"
+    },
+    "categoryIds": {
+      "type": [
+        "string"
+      ]
+    },
+    "institution_id": {
+      "type": "string"
+    },
+    "price": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
