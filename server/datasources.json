@@ -1,9 +1,9 @@
 {
   "mongodb": {
-    "host": "localhost",
-    "port": 27017,
-    "url": "",
-    "database": "IEducate",
+    "host": "cluster0-29ehj.mongodb.net",
+    "url": "mongodb+srv://user1:user1Password@cluster0-29ehj.mongodb.net/IEducate",
+    "port":0,
+    "database": "",
     "password": "",
     "name": "mongodb",
     "user": "",
