@@ -15,14 +15,6 @@
     "image": {
       "type": "string"
     },
-    "categoryIds": {
-      "type": [
-        "string"
-      ]
-    },
-    "institution_id": {
-      "type": "string"
-    },
     "price": {
       "type": "string"
     }
